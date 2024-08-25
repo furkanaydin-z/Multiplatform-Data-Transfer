@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="arda">
+        Goals: 1 goal
+Assists: 1 assist
+Average Distance Covered per Match: 9.5 km
+Successful Dribbles: 10 successful dribbles
+Possession Won: 7 times</string>
+
+    <string name="hakan">Goals: 1 goal
+Assists: 3 assists
+Average Distance Covered per Match: 11.5 km
+Successful Dribbles: 8 successful dribbles
+Possession Won: 10 times</string>
+
+    <string name="baris">Goals: 0 goals
+Assists: 1 assist
+Average Distance Covered per Match: 10.7 km
+Successful Dribbles: 7 successful dribbles
+Possession Won: 11 times </string>
+    <string name="kenan">Goals: 0 goals
+Assists: 0 assists
+Average Distance Covered per Match: 9.9 km
+Successful Dribbles: 6 successful dribbles
+Possession Won: 8 times</string>
+    <string name="ferdi">Goals: 0 goals
+Assists: 1 assist
+Average Distance Covered per Match: 10.9 km
+Successful Dribbles: 9 successful dribbles
+Possession Won: 13 times </string>
+    <string name="kaan">Goals: 0 goals
+Assists: 1 assist
+Average Distance Covered per Match: 9.8 km
+Successful Dribbles: 3 successful dribbles
+Possession Won: 15 times </string>
+    <string name="kero">Goals: 1 goal
+Assists: 2 assists
+Average Distance Covered per Match: 10.4 km
+Successful Dribbles: 12 successful dribbles
+Possession Won: 9 times </string>
+    <string name="salih">Goals: 0 goals
+Assists: 0 assists
+Average Distance Covered per Match: 11.2 km
+Successful Dribbles: 4 successful dribbles
+Possession Won: 12 times </string>
+    <string name="ismail">Goals: 0 goals
+Assists: 0 assists
+Average Distance Covered per Match: 10.1 km
+Successful Dribbles: 5 successful dribbles
+Possession Won: 14 times </string>
+    <string name="merih">Goals: 2 goals
+Assists: 0 assists
+Average Distance Covered per Match: 9.2 km
+Successful Dribbles: 2 successful dribbles
+Possession Won: 18 times</string>
+</resources>
